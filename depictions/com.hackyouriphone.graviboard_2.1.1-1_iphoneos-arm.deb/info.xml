@@ -1,0 +1,23 @@
+<package>
+	<id>com.hackyouriphone.graviboard</id>
+	<name>Graviboard</name>
+	<version>2.1.1-1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>6.1.6</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Gravity for your SpringBoard :p</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial upload</change>
+	</changelog>
+	<links></links>
+</package>
